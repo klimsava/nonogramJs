@@ -1,0 +1,30 @@
+{
+  "name": "nonogramjs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "gulp": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/klimsava/nonogramJs.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/klimsava/nonogramJs/issues"
+  },
+  "homepage": "https://github.com/klimsava/nonogramJs#readme",
+  "devDependencies": {
+    "body-parser": "^1.18.3",
+    "ejs": "^2.6.1",
+    "eslint": "^5.16.0",
+    "express": "^4.16.4",
+    "nodemon": "^1.18.11"
+  },
+  "engines": {
+    "node": ">=6.0.0"
+  }
+}
